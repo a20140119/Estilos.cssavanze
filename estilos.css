@@ -1,0 +1,41 @@
+ul{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+.txtp1{
+    font-size: 30px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.txtfinp1{
+    font-size: 30px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+a{
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(63, 139, 253);
+    line-height: 50px;
+}
+a:hover{
+    color: rgb(146, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px ;
+}
+.encabezado{
+ color: rgb(255, 0, 0);
+ text-shadow: 2px 2px 2px black;
+}
+.texto1{
+    color: rgb(5, 142, 16);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px ;
+    text-align: justify;
+}
